@@ -1,0 +1,5 @@
+// Finich Mini Prolog
+// Start Smart Car Prediction Based on {Car Age, Mileage, Engine Size / Power, Condition, Brand Value / Popularity}
+// Generate Price.
+// Make Documentation
+// Make Website Based on Documention --> [HTML&&CSS, GITHUB PAGES]
